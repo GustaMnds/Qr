@@ -16,7 +16,7 @@
  
 div{
    max-width: 320px;
-   max-height: 700px;
+   max-height: 470px;
    background-color: hsl(0, 0%, 100%);
    display: flex;
    align-items: center;
@@ -27,7 +27,7 @@ div{
 }
 
 img{
-   max-width: 90%;
+   max-width: 80%;
    border-radius: 15px;
 }
 
